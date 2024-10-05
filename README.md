@@ -19,5 +19,17 @@
 
 
 
+6) Causal Learning for Trustworthy Recommender Systems
+
+
+
+7) LLM-Based Generation of Item-Description for Recommendation
+
+
+
+8) Graph Neural Networks for Sequential Recommendation
+
+
+
 
 
